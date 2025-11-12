@@ -1,2 +1,2 @@
-# Git-Lab-2
+# Lakshay.B
 Git Lab program 2
